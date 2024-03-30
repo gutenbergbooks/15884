@@ -1,11 +1,3 @@
-E-text prepared by Juliet Sutherland, Sandra Brown, and the Project
-Gutenberg Online Distributed Proofreading Team
-
-
-
-
-
-
 Young Folks' Library
 
 Selections from the Choicest Literature of All
@@ -74,7 +66,7 @@ EDITORIAL BOARD
    Author, Gardiner, Me.
 
    ROSWELL FIELD,
-   Author, editor _The Evening Post>_, Chicago.
+   Author, editor _The Evening Post_, Chicago.
 
    TUDOR JENKS,
    Author, associate editor _Saint Nicholas_, New York.
@@ -133,7 +125,6 @@ EDITORIAL BOARD
 
    CHARLES WELSH, Managing Editor,
    Author, lecturer, editor, Winthrop Highlands, Mass.
-
 
 
 
@@ -268,7 +259,6 @@ LIST OF VOLUMES
 
 
 
-
 Volume XI: WONDERS OF EARTH, SEA AND SKY
 
 Edited by EDWARD SINGLETON HOLDEN
@@ -277,7 +267,6 @@ Boston
 Hall and Locke Company Publishers
 
 1902
-
 
 
 
@@ -629,16 +618,16 @@ Picture to yourself what sort of a task this would be, and you will
 have some idea of the labors of the patient geologist.
 
 Rocks may be divided into several kinds or classes. For the present
-moment it will be enough to consider the two grand divisions--_Stratified
-rocks_ and _Unstratified rocks_.
+moment it will be enough to consider the two grand
+divisions--_Stratified rocks_ and _Unstratified rocks_.
 
 Unstratified rocks are those which were once, at a time more or less
 distant, in a melted state from intense heat, and which have since
 cooled into a half _crystallized_ state; much the same as water, when
-growing colder, cools and crystallizes into ice. Strictly speaking,
-ice is rock, just as much as granite and sandstone are rock. Water
-itself is of the nature of rock, only as we commonly know it in the
-liquid state we do not commonly call it so.
+growing colder, cools and crystallizes into ice. Strictly speaking, ice
+is rock, just as much as granite and sandstone are rock. Water itself
+is of the nature of rock, only as we commonly know it in the liquid
+state we do not commonly call it so.
 
 [Illustration: UNSTRATIFIED ROCK.--A VOLCANIC BLOCK.]
 
@@ -3900,7 +3889,6 @@ and see if it does not help you to explain them to yourself....
 
 
 
-
 HOW THE SOIL IS MADE
 
 (FROM THE FORMATION OF VEGETABLE MOULD.)
@@ -4529,7 +4517,7 @@ evolved and sustained.
 
 Passing from the sphere of the mythical and marvellous as represented
 in mediaeval times, we may shortly discuss a question, which, of all
-others, may justly claim a place in the records of Zoölogical
+others, may justly claim a place in the records of zoölogical
 curiosities--namely, the famous and oft-repeated story of the "Toad
 from the solid rock," as the country newspapers style the incident.
 Regularly, year by year, and in company with the reports of the
@@ -6250,7 +6238,7 @@ point, the sea-wave must not only have travelled on a circuitous
 course nearly equal in length to half the circumference of the earth,
 but must have passed through Bass's Straits, between Australia and Van
 Diemen's Land, and so have lost a considerable portion of its force
-and dimensions. When w£ remember that had not the effects of the
+and dimensions. When we remember that had not the effects of the
 earth-shock on the water been limited by the shores of South America,
 a wave of disturbance equal in extent to that which travelled westward
 would have swept toward the east, we see that the force of the shock
@@ -6456,7 +6444,7 @@ flame.
 
 The property of emitting a phosphorescent light, sometimes
 spontaneously and sometimes on being stimulated, is likewise
-exemplified in the Ctenophora, a group resembling the Medusidge in
+exemplified in the Ctenophora, a group resembling the Medusidæ in
 the jelly-like character of their bodies, but more closely allied in
 structure to the Actinozoa. But we will pass over these cases in order
 to dwell more particularly on the remarkable tunicate known as
@@ -10639,5 +10627,3 @@ SUGGESTIONS FOR SUPPLEMENTARY READING
     JOSEPH C. WILLET
 
 
-
-
