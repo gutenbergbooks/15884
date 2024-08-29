@@ -9628,7 +9628,7 @@ classified in an orderly manner. Therefore the whole mass has been
 divided, in the first place, into two supreme groups, fancifully
 termed kingdoms--the "animal kingdom" and the "vegetal kingdom." Each
 of these is subdivided into an orderly series of subordinate groups,
-successively contained one a within the other, and named sub-kingdoms,
+successively contained one within the other, and named sub-kingdoms,
 classes, orders, families, genera and species. The lowest group but
 one is the "genus," which contains one or more different kinds termed
 "species," as e.g., the species "wood anemone" and the species "blue
@@ -10625,5 +10625,3 @@ SUGGESTIONS FOR SUPPLEMENTARY READING
 
   Wonders of Insect Life
     JOSEPH C. WILLET
-
-
